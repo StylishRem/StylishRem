@@ -13,3 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/About%20Me-007ACC?style=flat-square&logo=info&logoColor=white" alt="About Me">
 </p>
+
+<p align="center" style="max-width: 600px; text-align: center; font-size: 16px; line-height: 1.5; font-family: 'Comic Sans MS', cursive, sans-serif;">
+  Hello, I'm Rem. I develop in Kotlin most of the time! I'm currently not working on anything important but planning on making a YouTube client.
+</p>
