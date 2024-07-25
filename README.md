@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/About%20Me-StylishRem-007ACC?style=flat-square&logo=info&logoColor=white" alt="About Me">
+  <img src="https://img.shields.io/badge/About%20Me-007ACC?style=flat-square&logo=info&logoColor=white" alt="About Me">
 </p>
