@@ -9,3 +9,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StylishRem&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-StylishRem-007ACC?style=flat-square&logo=info&logoColor=white" alt="About Me">
+</p>
